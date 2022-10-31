@@ -1,16 +1,16 @@
 {
-"name": "goal222",
-"theme": "goal222",
-"version": "2.7.6",
-"description": "goal222 สมัครเว็บไซต์บาคาร่าเว็บตรง อันดับ 1 แจกโบนัสเครดิตฟรี",
-"keywords": [
-"goal222",
-"goal222 เครดิตฟรี",
-"goal222 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/goal222",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "goal222",
+  "theme": "goal222",
+  "version": "2.8.0",
+  "description": "goal222 สมัครเว็บไซต์บาคาร่าเว็บตรง อันดับ 1 แจกโบนัสเครดิตฟรี",
+  "keywords": [
+    "goal222",
+    "goal222 เครดิตฟรี",
+    "goal222 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/goal222",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
